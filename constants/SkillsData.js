@@ -74,12 +74,11 @@ export const TechStackData = [
         name: "Meterial UI",
         icon: <SiMui className="md:text-4xl text-2xl" color="#29b6f6" />,
       },
-      
-     
-     {
-        name: "Chakra UI",
-        icon: <SiChakraui className="md:text-4xl text-2xsl" color="#50cbc0" />
+      {
+        name: "SASS",
+        icon: <DiSass className="md:text-4xl text-2xl" color="#f06292" />,
       },
+     
      
       
       {
@@ -107,6 +106,11 @@ export const TechStackData = [
         name: "NodeJS",
         icon: <SiNodedotjs className="md:text-4xl text-2xl" color="#4caf50" />,
       },
+      {
+        name: "Chakra UI",
+        icon: <SiChakraui className="md:text-4xl text-2xsl" color="#50cbc0" />
+      },
+     
       {
         name: "jQuery",
         icon: <SiJquery className="md:text-4xl text-2xsl" color="#106dae" />
