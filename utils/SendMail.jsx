@@ -61,23 +61,38 @@ const SendMail = () => {
 
   return (
     <Fragment>
-      <section id="getInTouch" className="pt-6 mt-4 mx-6 px-6">
+      <section id="getInTouch" className="pt-6 mt-4 mb-5 mx-6 px-6">
         <div className="mx-6 px-6">
       <p class="section__text__p1">Get in Touch</p>
       <h1 class="title">Contact Me</h1>
-      <div class="contact-info-upper-container">
-        <div class="contact-info-container">
-                    <CiMail size={28}/>
+     <div className="flex flex-col md:flex-row justify-center items-center gap-8 mt-6">
+  <div className="flex items-center gap-4">
+    <CiMail size={28} />
+    <p>
+      <a
+        href="mailto:chennashivaganesh@gmail.com"
+        className="hover:underline text-black dark:text-white"
+      >
+        chennashivaganesh@gmail.com
+      </a>
+    </p>
+  </div>
 
-          <p><a href="mailto:chennashivaganesh@gmail.com">chennashivaganesh@gmail.com</a></p>
-        </div>
-        <div class="contact-info-container">
-          
-          <FaLinkedin size={28}/>
+  <div className="flex items-center gap-4">
+    <FaLinkedin size={28} />
+    <p>
+      <a
+        href="https://www.linkedin.com/in/chennashivaganesh/"
+        className="text-black dark:text-white hover:underline"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        LinkedIn
+      </a>
+    </p>
+  </div>
+</div>
 
-          <p><a href="https://www.linkedin.com/in/chennashivaganesh/">LinkedIn</a></p>
-        </div>
-      </div>
       </div>
     </section>
     </Fragment>

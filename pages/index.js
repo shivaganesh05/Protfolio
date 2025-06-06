@@ -59,7 +59,7 @@ const Home = () => {
 
           {/* <LatestBlogs /> */}
           <SendMail />
-          <Footer />
+          {/* <Footer /> */}
           <div className="z-40">
             <ChatSystem />
           </div>
