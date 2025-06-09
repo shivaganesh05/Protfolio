@@ -27,22 +27,22 @@ export const ProjectsData = [
         techs: ["NextJS", "TailwindCSS", "Rounter ", "Cloudinary", "API"]
     },
     {
-        projectName: "YouTube clone",
+        projectName: "Trip Travel ",
         liveUrl: "https://triptavel.netlify.app/",
         githubUrl: "https://github.com/iamshiv007/yotube-clone",
         projectImage: {
             imageUrl: "https://i.ibb.co/PzPgxzQy/travel123.png"
         },
-        techs: ["ReactJS", "ContextAPI", "ChakraUI", "YoutubeAPI", "ContextAPI"]
+        techs: ["Boostrap", "Javascript", "CSS", "HTML"]
     },
     {
-        projectName: "Eccommerce Dashboard",
-        liveUrl: "https://ganiadmin.netlify.app/",
+        projectName: "Shopping Dashboard",
+        liveUrl: "https://dress-shopping-gkes.vercel.app/",
         githubUrl: "https://github.com/iamshiv007/ecommerce-frontend",
         projectImage: {
-            imageUrl: "https://i.ibb.co/8L4xVrzB/dashboard123.png" 
+            imageUrl: "https://i.ibb.co/bRByWrF0/sale.png" 
         },
-        techs: ["NextJS", "TailwindCSS", "Rounter ", "Cloudinary", "API"]
+        techs: ["React","Vite", "TailwindCSS", "Rounter ", "imgbb"]
     },
     {
         projectName: "Happi Mobiles",
