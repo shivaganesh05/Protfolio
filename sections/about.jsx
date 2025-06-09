@@ -120,7 +120,7 @@ Shivaganesh            </p>
                   </p>
                 </div>
                 <p className='text-left md:text-left text-[#5b56ef] dark:text-[#07d0e5]'>
-                  3 Year{" "}
+                  3 + Year{" "}
                 </p>
               </div>
               {/* Project */}
@@ -142,7 +142,7 @@ Shivaganesh            </p>
             <div className='mt-5 justify-evenly text-justify'>
               <p className='text-gray-600 text-[15px] dark:text-gray-300'>
                 Passionate and driven ReactJS developer with a strong foundation
-                in MERN Stack and NextJS. Dedicated to creating dynamic and
+                in UI, React and NextJS. Dedicated to creating dynamic and
                 user-centric web applications. Eager to contribute my expertise
                 in frontend frameworks, modern UI/UX design, and responsive
                 development to a forward-thinking team.

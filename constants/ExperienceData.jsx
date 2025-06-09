@@ -16,7 +16,7 @@ export const ExperienceData = [
     role: "Web developer", 
     fromTo: "Nov 2022 - July 2023",
     description:
-      "I have learned so much, I have previously worked on an eCommerce website project, which helped me understand the structure and functionality of online stores. Currently, I am working on product-based projects and have created a portfolio project for Mobikes at Happi Mobiles Corporate Office.",
+      "I have learned so much, I have previously worked on an eCommerce website project, which helped me understand the structure and functionality of online stores. Currently, I am working on product-based projects and have created a portfolio project for Mobiles at Happi Mobiles Corporate Office.",
     side: "right",
   },
   {

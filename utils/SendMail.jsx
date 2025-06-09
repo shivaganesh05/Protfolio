@@ -61,17 +61,17 @@ const SendMail = () => {
 
   return (
     <Fragment>
-      <section id="getInTouch" className="pt-6 mt-4 mb-5 mx-6 px-6">
+      <section id="getInTouch" className="pt-6 mt-4 pb-5 mx-6 px-6">
         <div className="mx-6 px-6">
       <p class="section__text__p1">Get in Touch</p>
       <h1 class="title">Contact Me</h1>
-     <div className="flex flex-col md:flex-row justify-center items-center gap-8 mt-6">
+     <div className="flex flex-col md:flex-row justify-center items-center gap-8 mt-6 pb-8">
   <div className="flex items-center gap-4">
     <CiMail size={28} />
     <p>
       <a
         href="mailto:chennashivaganesh@gmail.com"
-        className="hover:underline text-black dark:text-white"
+        className="hover:underline text-black text-lg dark:text-white"
       >
         chennashivaganesh@gmail.com
       </a>
@@ -83,7 +83,7 @@ const SendMail = () => {
     <p>
       <a
         href="https://www.linkedin.com/in/chennashivaganesh/"
-        className="text-black dark:text-white hover:underline"
+        className="text-black dark:text-white hover:underline text-lg"
         target="_blank"
         rel="noopener noreferrer"
       >
