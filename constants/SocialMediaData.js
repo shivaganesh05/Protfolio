@@ -23,6 +23,6 @@ export const SocialMediaData = [
   {
     icon: <BsGithub />,
     color: "#171515",
-    link: "https://www.github.com/iamshiv007",
+    link: "https://github.com/shivaganesh05/",
   },
 ];
