@@ -58,7 +58,7 @@ const Home = () => {
           <SocialMedia />
 
           {/* <LatestBlogs /> */}
-          <SendMail />
+          {/* <SendMail /> */}
           {/* <Footer /> */}
           <div className="z-40">
             <ChatSystem />
