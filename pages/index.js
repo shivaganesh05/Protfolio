@@ -2,7 +2,6 @@ import { Fragment } from "react";
 import Head from "next/head";
 import dynamic from "next/dynamic";
 
-import ShoveeModal from "@/utils/ShoveeModal";
 import About from "@/sections/about";
 import Education from "@/sections/education";
 import Experience from "@/sections/experience";
@@ -11,11 +10,8 @@ const Footer = dynamic(() => import("@/layout/footer/Footer"))
 const Intro = dynamic(() => import("@/sections/Intro"))
 const Skills = dynamic(() => import("@/sections/Skills"))
 const Projects = dynamic(() => import("@/sections/Projects"))
-const LatestBlogs = dynamic(() => import("@/sections/LatestBlogs"))
-const Apps = dynamic(() => import("@/sections/Apps"))
 const SendMail = dynamic(() => import("@/utils/SendMail"))
 const SocialMedia = dynamic(() => import("@/utils/SocialMedia"))
-const ChatSystem = dynamic(() => import("@/utils/ChatSystem"))
 const Feedback = dynamic(() => import("@/utils/Feedback"))
 
 const Home = () => {
@@ -56,15 +52,10 @@ const Home = () => {
           <Experience />
           <Projects />
           <SocialMedia />
-
-          {/* <LatestBlogs /> */}
           {/* <SendMail /> */}
           {/* <Footer /> */}
-          <div className="z-40">
-            <ChatSystem />
-          </div>
+         
           <Feedback />
-          {/* <ShoveeModal /> */}
         </div>
       </div>
     </Fragment>
