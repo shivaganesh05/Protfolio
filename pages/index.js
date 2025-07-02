@@ -52,7 +52,7 @@ const Home = () => {
           <Experience />
           <Projects />
           <SocialMedia />
-          {/* <SendMail /> */}
+          <SendMail />
           {/* <Footer /> */}
          
           <Feedback />

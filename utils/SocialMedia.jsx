@@ -27,12 +27,12 @@ const SocialMedia = () => {
   </a>
 </Link>
         ))}
-        <button
+        {/* <button
           className='p-2 rounded-full text-xl bg-[#f2925a] text-white'
           onClick={() => setShowModal(true)}
         >
           <MdFeedback />
-        </button>
+        </button> */}
       </div>
     </Fragment>
   );

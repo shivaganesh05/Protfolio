@@ -63,8 +63,15 @@ const Intro = () => {
               <span className='text-[#5b56ef] dark:text-[#07d0e5]'>
                 {" "}
                 Developer <span className='text-white'>|</span>
-              </span>
-            </p>
+              </span> </p>
+              <br></br>
+               <p className="text-lg">
+      Hello, I'm a Frontend Developer with knowledge in 
+      <span className='font-medium '> HTML, CSS, JS, React JS, and Next JS</span>. <br></br>
+      I enjoy creating clean and easy-to-use websites. I'm always learning and looking for<br></br> better ways to build things with code.
+    </p>
+  
+           
             <div className='mt-5 md:mt-10 flex gap-3'>
               {/* Hire Me Button */}
               <Link
