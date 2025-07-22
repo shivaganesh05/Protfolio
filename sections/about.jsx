@@ -120,7 +120,7 @@ Shivaganesh            </p>
                   </p>
                 </div>
                 <p className='text-left md:text-left text-[#5b56ef] dark:text-[#07d0e5]'>
-                  3 + Year{" "}
+                  4 Year{" "}
                 </p>
               </div>
               {/* Project */}
