@@ -5,7 +5,7 @@ export const ExperienceData = [
     companyName: "Ivory Innovations Pvt Ltd",
     location: "Hyderabad, Telangana",
     role: "Web developer", 
-    fromTo: "Aug 2021 - Nov 2022",
+    fromTo: "Dec 2021 - Nov 2022",
     description:
       "In this internship, I worked on many projects, including an eCommerce application and a real-time chat system. Through this internship,  I have learned HTML, CSS, Bootstrap, and JavaScript, and I am  worked on some projects for static websites.",
     side: "left",
