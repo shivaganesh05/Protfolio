@@ -67,7 +67,7 @@ const Intro = () => {
             </p>
             <br></br>
             <p className="text-lg">
-              Hello, I'm a Frontend Developer with knowledge in
+              Hello, I'm a Frontend Developer with 3.6 years in
               <span className="font-medium ">
                 {" "}
                 HTML, CSS, JS, React JS, and Next JS
@@ -81,7 +81,7 @@ const Intro = () => {
               {/* Hire Me Button */}
               <Link
                 className="text-white text-xl font-semibold rounded bg-blue-400 dark:bg-red-400 hover:bg-red-500 px-2 py-1"
-                href={"#getInTouch"}
+                href={"#contact"}
               >
                 Hire me
               </Link>
@@ -89,11 +89,10 @@ const Intro = () => {
               <Link
                 className="text-xl font-semibold rounded border border-red-500 hover:text-white hover:bg-red-500 px-2 py-1"
                 // href='https://drive.google.com/file/d/1CYHcG-qNjlm4AbQExy-srnxkBsUD9jIq/view?usp=sharing'
-                href="https://drive.google.com/file/d/131zGIY5iqeKt6KptViPyVRaIAEHFNgPk/view"
+                href="https://drive.google.com/file/d/13uyOfEv2PpF9ZbCOlnCKe8Zq3FU4ENKB/view"
                 target="_blank"
               >
-                Download CV
-              </Link>
+Resume              </Link>
 
               {/* <Link
                 className='text-xl font-semibold rounded border border-red-500 hover:text-white hover:bg-red-500 px-2 py-1'
