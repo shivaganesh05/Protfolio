@@ -67,7 +67,7 @@ const Intro = () => {
             </p>
             <br></br>
             <p className="text-lg">
-              Hello, I'm a Frontend Developer with 3.6 years in
+              Hello, I'm a Frontend Developer with 3.8 years in
               <span className="font-medium ">
                 {" "}
                 HTML, CSS, JS, React JS, and Next JS

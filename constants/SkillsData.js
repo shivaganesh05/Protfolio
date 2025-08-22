@@ -79,7 +79,11 @@ export const TechStackData = [
         icon: <DiSass className="md:text-4xl text-2xl" color="#f06292" />,
       },
      
-     
+        
+      {
+        name: "React Native",
+        icon: <TbBrandReactNative  className="md:text-4xl text-2xl" color={"#31b5ba"} />
+      },
       
       {
         name: "netlify",
