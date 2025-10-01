@@ -23,7 +23,7 @@ export const ExperienceData = [
     companyName: "Seven83 Systems Pvt Ltd",
     location: "Hyderabad, Telangana",
     role: "React developer", 
-    fromTo: "Aug 2023 - ",
+    fromTo: "Aug 2023 - Sept 2025",
     description:
       " I have hands-on experience with ReactJS, Next.js, Bootstrap, and Tailwind CSS. I am especially confident in UI development, and I focus on creating clean, responsive, and user-friendly interfaces that enhance the overall user experience.",
     side: "left",
